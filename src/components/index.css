@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Oxanium&display=swap');
 
 * {
   box-sizing: border-box;
@@ -8,50 +9,48 @@
 
 body {
   height: 100vh;
-  width: 100%;
-  overflow: hidden;
+  width: 100vw;
+ 
 }
 
 .background {
-  height: 100vh;
-  width: 100vw;
+
   /* background-image: url("../images/background.jpg"); */
-  background-size: cover;
-  background-repeat: no-repeat;
-  display: flex;
+  /* background-size: cover;
+  background-repeat: no-repeat; */
+  /* display: flex;
   flex-direction: column;
   justify-content: space-around;
-  align-items: center;
+  align-items: center; */
 }
 
-h2,
-h3 {
+#title {
   font-family: "Source Code Pro";
   color: rgba(255, 255, 255, 0.1);
   font-size: 7rem;
   transition: 0.5s;
   box-shadow: 1px 1px 40px 18px rgba(255, 166, 0, 0.473);
   cursor: pointer;
-  transform: scale(0.6);
+  transform: scale(0.6) translateY(-30vh);
 }
 
-h2:hover {
+/* .background h2:hover {
   color: rgba(255, 255, 255, 0.8);
   box-shadow: 60px 60px 0px 12px rgba(255, 166, 0, 0.473);
 }
 
-h2:after {
+.background h2:after {
   left: 10vw;
   position: absolute;
   content: "!";
   transition: 0.5s;
 }
 
-h2:hover:after {
+.background h2:hover:after {
   left: 10vw;
 }
 
-h2:before {
+.background h2:before {
   position: absolute;
   left: 0vw;
   content: ".";
@@ -60,14 +59,93 @@ h2:before {
   opacity: 0.1;
 }
 
-h2:hover:before {
+.background h2:hover:before {
   content: ".";
   color: white;
   left: 10vw;
   opacity: 1;
 }
 
-h3:hover {
+.background h3:hover {
   color: rgba(255, 255, 255, 0.8);
   box-shadow: 80px 80px 0px 12px rgba(255, 166, 0, 0.473);
+} */
+
+.blog-link {
+  color: black;
+  cursor: pointer;
+  font-size: 3rem;
+}
+
+.link-container {
+  background-color: white;
+  width: 15vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  font-family: 'Oxanium', cursive;
+}
+
+/***********************************************/
+
+/* Sweep To Left */
+.hvr-sweep-to-left {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  position: relative;
+  -webkit-transition-property: color;
+  transition-property: color;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+}
+.hvr-sweep-to-left:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: black;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: 100% 50%;
+  transform-origin: 100% 50%;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.hvr-sweep-to-left:hover, .hvr-sweep-to-left:focus, .hvr-sweep-to-left:active {
+  color: white;
+}
+.hvr-sweep-to-left:hover:before, .hvr-sweep-to-left:focus:before, .hvr-sweep-to-left:active:before {
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+
+/*****************************************************/
+
+@media only screen and (max-width: 600px) {
+  .link-container {
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100vw;
+    height: 10vh;
+  }
+
+  .blog-link {
+    color: black;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+
 }

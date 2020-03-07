@@ -9,16 +9,23 @@ import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 import Background from "./background"
-
 import Header from "./header"
 import "./layout.css"
 
 const Layout = ({ children }) => {
   return (
     <>
-      <Background>
-        <main>{children}</main>
-      </Background>
+      <div className="main-container">
+        <Background>
+          <div className="links">
+            {/* <h3 id="home-link">Home</h3> */}
+
+          </div>
+
+          <main>{children}</main>
+
+        </Background>
+      </div>
     </>
   )
 }

@@ -9,17 +9,13 @@ import SEO from "../components/seo"
 const IndexPage = ({ data }) => (
   <Layout>
     <SEO title="Home" />
-    <section className="background">
-      <div>{/* <FilmSVG /> */}</div>
-      <div>
-        <h2>MW Parker</h2>
-      </div>
-      <div>
-        <Link style={{ textDecoration: "none" }} to="./blogs">
-          <h3>Blog</h3>
-        </Link>
-      </div>
-    </section>
+    <div className="link-container">
+      <Link style={{ textDecoration: "none" }} to="./blogs">
+        <h3 className="blog-link hvr-sweep-to-left">Blog</h3>
+      </Link>
+      <h3 className="blog-link hvr-sweep-to-left">Contact</h3>
+      <h3 className="blog-link hvr-sweep-to-left">GitHub</h3>
+    </div>
   </Layout>
 )
 

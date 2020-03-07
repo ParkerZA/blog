@@ -2,22 +2,24 @@ import React from "react"
 import { graphql, Link } from "gatsby"
 import Blog from "../components/blog"
 import Layout from "../components/layout"
+import "./blogs.css"
 
 const Blogs = ({ data }) => {
   console.log(data)
   return (
     <Layout>
-      {data.allMarkdownRemark.edges.map(({ node }) => {
-        return (
-          <div key={node.id}>
-            <Blog
-              title={node.frontmatter.title}
-              excerpt={node.excerpt}
-              date={node.frontmatter.date}
-            />
-          </div>
-        )
-      })}
+      <div className="blogs-container">
+
+        <Link to="/blog">
+          <Blog
+            title={"Climbing Mountains"}
+            excerpt={"Or: Achieving your goals"}
+            date={"03/02/2020"}
+            image={"https://www.climbing.com/.image/t_share/MTQ3NjY3NzM1NjQ2NTc4Mjg1/yosemite_el_capitan.jpg"}
+          />
+        </Link>
+
+      </div>
     </Layout>
   )
 }

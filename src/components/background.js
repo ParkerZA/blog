@@ -1,30 +1,25 @@
 import React from "react"
 import { graphql, useStaticQuery } from "gatsby"
 import styled from "styled-components"
+import "./background.css"
 
 import BackgroundImage from "gatsby-background-image"
 
 const BackgroundSection = ({ className, children }) => {
   const data = useStaticQuery(graphql`
-    {
-      file(relativePath: { eq: "background.jpg" }) {
-        childImageSharp {
-          fluid(quality: 100, maxWidth: 1920) {
-            ...GatsbyImageSharpFluid
+      {
+        file(relativePath: { eq: "logo.png" }) {
+          childImageSharp {
+            fluid(quality: 100, maxWidth: 1920, maxHeight: 1080) {
+              ...GatsbyImageSharpFluid
+            }
           }
         }
       }
-    }
   `)
 
-  const StyledBackgroundSection = styled(BackgroundSection)`
-    width: 100%;
-    background-position: bottom center;
-    background-repeat: repeat-y;
-    background-size: cover;
-  `
   return (
-    <div>
+    <div className="back-container" style={{ height: "100vh" }}>
       <BackgroundImage
         className="background"
         Tag="section"
