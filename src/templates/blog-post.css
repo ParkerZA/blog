@@ -22,9 +22,9 @@
 }
 
 img {
-    width: 40vw;
+    width: 30vw;
     margin: 0 auto;
-    transform: translateX(25vw);
+    transform: translateX(31vw);
 
     margin: 5px;
 }
@@ -32,6 +32,11 @@ img {
 h4 {
     font-size: 2rem;
     text-align: center;
+}
+
+iframe {
+    margin: 0 auto;
+    transform: translateX(25vw);
 }
 
 h5 {

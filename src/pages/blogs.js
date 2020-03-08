@@ -6,16 +6,18 @@ import "./blogs.css"
 
 const Blogs = ({ data }) => {
   console.log(data)
+  const { node } = data.allMarkdownRemark.edges[2];
   return (
     <Layout>
       <div className="blogs-container">
 
-        <Link to="/blog">
+        <Link to="/goals">
           <Blog
             title={"Climbing Mountains"}
             excerpt={"Or: Achieving your goals"}
             date={"03/02/2020"}
             image={"https://www.climbing.com/.image/t_share/MTQ3NjY3NzM1NjQ2NTc4Mjg1/yosemite_el_capitan.jpg"}
+            time={node.timeToRead}
           />
         </Link>
 
@@ -30,6 +32,7 @@ export const queryTwo = graphql`
     allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {
       edges {
         node {
+          timeToRead
           frontmatter {
             title
             date

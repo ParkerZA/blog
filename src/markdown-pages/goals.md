@@ -13,7 +13,7 @@ Can you remember the eventual pain that settled into your palm? The way your fin
 
 Cool, cool.
 
-Now imagine climbing this:
+Now, imagine climbing this:
 
 ![El Capitan](https://www.climbing.com/.image/t_share/MTY1NjYzODIzNjM2NzM1MjYz/screen-shot-2019-07-22-at-20635-pm.png)
 
@@ -27,19 +27,23 @@ Anyway, believe it or not, someone actually did climb it. This guy:
 
 His name is Alex Honnold, a 34-year-old man who has made a career out of elevating his massive balls a 1,000 feet above sea level.
 
-Not only did he climb El Capitan in just 3 hours and 56 minutes, he did it *free hand* and without any protective equipment.
+Not only did he climb El Capitan in just 3 hours and 56 minutes, he did it *free hand* and without any protective equipment whatsoever.
 
-I need to get across to you how batshit insane that is.
+I need to get across to you how insane that is.
 
 One tiny slip, one momentary lapse in judgement or concentration, and he plummets to his easily avoidable death. I say easily avoidable because holy shit why are you climbing a mountain free hand? Aren't there easier ways to kill yourself? Has mankind finally reached an evolutionary apex that has allowed us to give natural selection the middle finger?
 
 And this isn't a leisurely hike up Table Mountain, or indoor rock climbing, where there are steadfast harnesses in place and protrusions for your hands to use. We're talking a 90 degree climb, with barely an inch of rock to hold onto.
 
-I say all this to impress upon you just what an incredible achievement this is. His feat is arguably the greatest athletic accomplishment of all time. Alex laughed in Death's face, took a dump on his lawn and banged his girlfriend. 
+I say all this to impress upon you just what an incredible achievement this is. His feat is arguably the greatest athletic accomplishment of all time. 
 
-The documentary Free Solo is a mandatory watch. [Here's the trailer](https://www.youtube.com/watch?v=urRVZ4SW7WU).
+The documentary Free Solo is a mandatory watch. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/urRVZ4SW7WU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You're of course at this point wondering what any of this has to do with accomplishing your goals, or anything really. 
+
+![Life goals](https://media.mpasho.co.ke/wp-content/uploads/2015/09/life-goals-meme.jpg)
 
 The answer is that it's a metaphor. Or something.
 
@@ -72,9 +76,7 @@ But that's the thing, isn't it? Simple != easy. And that's okay. It's how it sho
 
 Luckily for me, the information I needed was all already out there, on the ether of the internet. So I started reading and watching and absorbing everything I could.
 
-Usually the top answer is always self-discipline, which is probably correct, but there's no point being disciplined if it's not in service of something.
-
-Just to be clear, I haven't accomplished much or anything truly noteworthy, besides reaching one of my main goals (still a work in progress!) But I believe this information, which I've gleaned from people much, much smarter than me, can be helpful to anybody in the same predicament I was in.
+Just to be clear, I haven't accomplished much or anything truly noteworthy, besides reaching one of my main goals. But I believe this information, which I've gleaned from people much, much smarter than me, can be helpful to anybody in the same predicament I was in.
 
 Cool?
 
@@ -90,11 +92,9 @@ Of course you've heard them, everyone has. But, well... that's the secret. Reall
 
 It's possible that you just wasted a couple minutes of your time while I talked utter nonsense, but stick with me. 
 
-These proverbs have stood the test of time for a reason. The first one originates all the way back from the 6th century BC. Must be something to it, I imagine. And sure, you've heard them peddled all the time as motivational quotes on Facebook, but have you really unpacked what they were trying to say?
+These proverbs have stood the test of time for a reason. The first one originates all the way back from the 6th century BC. And sure, you've heard them peddled all the time as motivational quotes on Facebook, but have you really unpacked what they were trying to say?
 
 Turns out, all Alex had to do was take that first step. He put his fingers in a crack in the mountain, lifted himself up, reached for the next crack and rinse repeat till he got to the top. But the important thing to take away from this is that he took it one, small step at a time. He didn't reach for the next ledge or make any move until he was 100% sure that it was the correct one. His life depended on it.
-
-I mean, you could probably climb a 10 foot wall, right? Find something to hold onto and lift yourself up. Exact same principle for Alex. *Principle*. 
 
 But I didn't I say earlier that simplification is not helpful? How is this any different?
 
@@ -108,12 +108,12 @@ If you were tasked to build, for example, a calculator program, you wouldn't rea
 
 That's the wrong way to tackle the problem. You start off by breaking it down into smaller chunks, work on those independently, and then put all the pieces together again. The trick is to break it down to such an atomic level that you cannot possibly break it down further. So forget about building a user interface and the mathematics. Start simple: how do I accept input? Doesn't matter what it is, numbers or letters. Got that? Great, now how do I store the input? In a variable? Makes sense. Now how do I accept a second input? And so on.
 
-In the steps I've outlined above, not one of those are methods used specifically for building a calcuator. You could build anything with input. You could build Google from that starting point. But as you carry on, and you start connecting the smaller pieces together, a picture will start to take shape. It'll all come together, magestically, like a Megazord in Power Rangers.
+In the steps I've outlined above, not one of those are methods used specifically for building a calcuator. You could build anything with input. You could build Google from that starting point. But as you carry on, and you start connecting the smaller pieces together, a picture will start to take shape. It'll all come together, magestically, like a Megazord.
 
 ![Megazord](https://images-na.ssl-images-amazon.com/images/I/81Dct5d7jML._AC_SL1500_.jpg)
 ###### The solution to all your problems
 
-The problem for a lot of people is that these "smaller" problems are not directly related to the main problem at hand, and it therefore becomes difficult to obtain a clearer picture of how they all fit together. You need to think abstractly, in order to see the big picture, and granularly, in order to take action.
+The problem for a lot of people is that these "smaller" problems are not directly related to the main one, and it becomes difficult to obtain a clearer picture of how they all fit together. You need to think abstractly, in order to see the big picture, and granularly, in order to take action.
 
 And that's the really important part: taking action. You can plan and conceptualize all you want, but if you don't take that first step, nothing is going to happen. Just make sure that first step is in the right direction.
 
