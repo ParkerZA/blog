@@ -20,12 +20,11 @@ const Blog = ({ title, excerpt, date, image, time }) => {
 
 
     <div className="card-container">
-      <div className="blogCard">
+      <div className="blogCard" style={{ backgroundImage: `url(${image})` }}>
         <h4>{title}</h4>
         <h5>{excerpt}</h5>
         <h6>{date}</h6>
         <h6>{`${time} minutes`}</h6>
-        <img src={image} className="thumbnail hvr-shrink" />
       </div>
     </div>
   )

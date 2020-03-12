@@ -10,7 +10,8 @@ export default ({ data }) => {
     return (
         <Layout>
             <div className="blog-header">
-
+                <Img className="logo-image" fluid={data.file.childImageSharp.fluid} objectFit="cover"
+                />
             </div>
             <div className="blog-layout-container">
                 <div className="blog-layout">
@@ -29,7 +30,17 @@ query($ slug: String!) {
             title
         }
     }
+
+    file(relativePath:{eq: "twitter_profile_image.png"}) {
+        childImageSharp{
+          fluid(fit: COVER, rotate: 30, quality: 100) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
 }
+
+
 
 `
 

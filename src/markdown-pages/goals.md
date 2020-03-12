@@ -6,7 +6,7 @@ date: "2017-08-10"
 #### Climbing Mountains
 ##### Or: Achieving your goals
 
-90% of the things I say amount to unfiltered nonsense devoid of any logic or rationale, but occasionally I'll say something insighful. This blog is an attempt to distill aforementioned nonsense into the good bits and present them to you in a condensed, marketable format. Anyway...
+90% of the things I say amount to unfiltered nonsense devoid of any logic or rationale, but occasionally I'll say something insighful and not completely stupid. This blog is an attempt to distill aforementioned nonsense into the good bits and present them to you in a condensed, marketable format. Anyway...
 
 Think back to the last time you were hanging off a monkey bar, or doing chin-ups, or anything that required hanging by the grip of your fingers.
 Can you remember the eventual pain that settled into your palm? The way your fingers bent at odd angles afterwards? The burn marks? How long you were able to hold on? If you weigh as much as I do... not very long. Ugh, gravity, am I right?
@@ -38,8 +38,8 @@ And this isn't a leisurely hike up Table Mountain, or indoor rock climbing, wher
 I say all this to impress upon you just what an incredible achievement this is. His feat is arguably the greatest athletic accomplishment of all time. 
 
 The documentary Free Solo is a mandatory watch. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/urRVZ4SW7WU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/urRVZ4SW7WU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 You're of course at this point wondering what any of this has to do with accomplishing your goals, or anything really. 
 

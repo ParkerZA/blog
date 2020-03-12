@@ -14,7 +14,10 @@ const IndexPage = ({ data }) => (
         <h3 className="blog-link hvr-sweep-to-left">Blog</h3>
       </Link>
       <h3 className="blog-link hvr-sweep-to-left">Contact</h3>
-      <h3 className="blog-link hvr-sweep-to-left">GitHub</h3>
+      <a href="https://github.com/ParkerZA">
+        <h3 className="blog-link hvr-sweep-to-left">GitHub</h3>
+
+      </a>
     </div>
   </Layout>
 )
