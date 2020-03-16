@@ -86,7 +86,7 @@ If you've made it this far, well done, and here's the prize: Ever heard the sayi
 
 What about "Rome wasn't built in a day"?
 
-Of course you've heard them, everyone has. But, well... that's the secret. Really. That's all their is to it.
+Of course you've heard them, everyone has. But, well... that's the secret. Really. That's all there is to it.
 
 It's possible that you just wasted a couple minutes of your time while I talked utter nonsense, but stick with me. 
 
