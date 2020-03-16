@@ -15,7 +15,6 @@ const useStyles = makeStyles({
 
 
 const Blog = ({ title, excerpt, date, image, time }) => {
-  const classes = useStyles();
   return (
 
 

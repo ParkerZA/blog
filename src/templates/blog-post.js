@@ -14,6 +14,7 @@ export default ({ data }) => {
                 />
             </div>
             <div className="blog-layout-container">
+
                 <div className="blog-layout">
                     <div dangerouslySetInnerHTML={{ __html: post.html }}></div>
                 </div>

@@ -1,9 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
 
-
+.bar {
+  display: block;
+  width: 100vw;
+  height: 10vh;
+  background-color: black;
+}
 
 .blog-layout {
-    width: 100%;
+    width: 65%;
     padding: 50px;
     height: 100vh;
     background-color: white;
@@ -21,16 +26,24 @@
     width: 100vw;
 }
 
-img {
-    width: 30vw;
-    margin: 0 auto;
-    transform: translateX(31vw);
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
 
-    margin: 5px;
+img {
+    width: 60%;
+    height: 45vh;
+    margin: 0 auto;
+    transform: translateX(10vw);
+    margin: 30px;
 }
 
 h4 {
-    font-size: 2rem;
+    font-size: 22px;
     text-align: center;
 }
 
@@ -82,9 +95,17 @@ h6 {
 }
 
 
-@media only screen and (max-width: 320px) {
-    
+@media only screen and (max-width: 1020px) {
 
+  .blog-layout {
+    width: 95%;
+  }
+    
+img {
+  width: 80%;
+  height: 20vh;
+  transform: translateX(-3vw);
+}
   
   }
 

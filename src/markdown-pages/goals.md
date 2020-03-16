@@ -51,7 +51,7 @@ It's a shitty metaphor.
 
 About two years ago I started setting concrete goals for myself, mostly out of necessity. At this point I also realized that I had no idea what I was doing. My goal (becoming a web developer, mainly) seemed to me a mirage, far away in the distance. Visible, but frustratingly unobtainable. I knew where I wanted to go, where I needed to be, but the path before me was like a maze. Going down one road invariably led me back the way I came. Every wrong move was time wasted. And while I was moving forward, it wasn't at the pace that I wanted. I knew I had to change something about myself if I wanted to progress.
 
-I know I wasn't the only person looking for direction. There's an entire industry built around self-improvement, both mental and physical. People need guidance on fundamental things such as losing weight, avoiding procrastination (you won't believe how long I've procrastinated writing this), making money, being sociable, making friends, being happy, even seeking to change the way they think and percieve their reality. And while some of these may seem easy or trivial to some, the truth is that their circumstances and life experiences have merely allowed them to subconsciously formulate a mental blueprint to accomplish their goals.
+I know I wasn't the only person looking for direction. There's an entire industry built around self-improvement, both mental and physical. People need guidance on fundamental things such as losing weight, avoiding procrastination (you won't believe how long I've procrastinated writing this), making money, being sociable, making friends, being happy, even seeking to change the way they think and percieve their reality. And while some of these may seem easy or trivial, the truth is that their circumstances and life experiences have merely allowed them to subconsciously formulate a mental blueprint to accomplish their goals.
 
 ![Every. Time.](https://i.insider.com/5b7edeb1b354cd32108b5745?width=1100&format=jpeg&auto=webp)
 
@@ -71,10 +71,8 @@ It doesn't work, unfortunately. You need definition in order to gain direction. 
 You could say to someone, "Losing weight is easy! Just eat less and exercise more!" And that person will probably try to eat you. In most cases, simplifying a problem by condensing the mission statement into a couple of sentences doesn't really simplify anything. It just causes aggravation, because if everything is so simple, why is it still so difficult? 
 
 
-
 But that's the thing, isn't it? Simple != easy. And that's okay. It's how it should be. Nothing worth accomplishing is easy, otherwise it wouldn't really be much of an accomplishment.
 
-Luckily for me, the information I needed was all already out there, on the ether of the internet. So I started reading and watching and absorbing everything I could.
 
 Just to be clear, I haven't accomplished much or anything truly noteworthy, besides reaching one of my main goals. But I believe this information, which I've gleaned from people much, much smarter than me, can be helpful to anybody in the same predicament I was in.
 
